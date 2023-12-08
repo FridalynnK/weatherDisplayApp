@@ -2,11 +2,11 @@
 
 Group1 web programming
 
-+ Task
+Task
 "Build a weather app that allows users to view forecast for multiple cities, with dynamic graphs and charts. Add features like mapping weather patterns over time."
 *Displays preset sample weather data for various cities.
 *Uses tables and basic graphs to show case weather metrics.
-\*Allows filtering to compare weather in different locations.
+*Allows filtering to compare weather in different locations.
 
 IMPORTANT
 Everything has to be implemented using html, css and js. Otherwise, we score a ZERO.
